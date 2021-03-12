@@ -1,2 +1,9 @@
 # Text-Classification
-Here I used 20 News Group dataset in which around 11314 passages are given along with their groups(like religion, politics...etc). Here first i cleaned the data using NLP and later classification is done using sklearn's inbuilt Multinomial Classifier and Naive Bayes classifier(built from scratch) and accuracy of both classifier is being compared.
+In this project, I have trained a model that classifies given paragraphs into 20 groups (religion, politics...etc.).
+20NewsGroup dataset containing around 11.3k paragraphs used to train the model. Text data was cleaned, and
+top words or features were chosen and converted to Term-Frequency Bag Of Word representation. Training and
+classification were done using the Naive Bayes Classifier(built from scratch). After training, the model was giving
+84% accuracy.
+
+It is coded in Python, Anaconda.
+
