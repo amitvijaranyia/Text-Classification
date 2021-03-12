@@ -5,5 +5,5 @@ top words or features were chosen and converted to Term-Frequency Bag Of Word re
 classification were done using the Naive Bayes Classifier(built from scratch). After training, the model was giving
 84% accuracy.
 
-It is coded in Python, Anaconda.
+It is coded in Python, Jupyter.
 
